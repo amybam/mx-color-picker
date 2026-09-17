@@ -1,11 +1,11 @@
 # Color Picker for the Logitech MX Creative Keypad
 
-Pick any colour on any screen from one key.
+Pick any color on any screen from one key.
 
 - **Press the key**: a magnifying eyedropper appears. Click a pixel anywhere, on any monitor, and the key turns
-  that colour and shows its hex and RGB values.
+  that color and shows its hex and RGB values.
 - **The key's page** opens at the same time: your last six colours (press one to reuse it and copy its hex to
-  the clipboard), the eyedropper, and the Windows colour dialog for typing values or using custom swatches.
+  the clipboard), the eyedropper, and the Windows color dialog for typing values or using custom swatches.
 - **Keyboard while picking**: arrow keys nudge one pixel, Enter picks, Esc or right-click cancels. The back key
   on the keypad also cancels.
 
@@ -17,12 +17,12 @@ Pick any colour on any screen from one key.
 
 Requires Windows and Logi Options+ 6.4 or newer. Nothing else to install.
 
-Do not give the key a custom icon in Logi Options+: the key draws itself, and any custom icon is removed so it
-keeps showing the live colour.
+**DO NOT give the key a custom icon in Logi Options+: the key draws itself, and any custom icon is removed so it
+keeps showing the live colour.**
 
 ## Privacy
 
-The plugin collects no data and makes no network connections. Your colours are stored only in Logi Options+'s
+The plugin collects no data and makes no network connections. Your colors are stored only in Logi Options+'s
 local plugin settings. The eyedropper takes a screenshot for the magnifier while it is open; it is never saved.
 
 ## Support
